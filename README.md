@@ -16,15 +16,29 @@ Form validation is a crucial aspect of web development to ensure that user input
 **Structure** 
 
 form-validation/
+
 │
+
+├── html/
+
+│   └── index.html         # structure for the form
+
 ├── css/
+
 │   └── styles.css         # CSS styles for the form
+
 │
+
 ├── js/
+
 │   └── script.js          # JavaScript for form validation
+
 │
+
 ├── index.html             # HTML file for the form
+
 ├── .gitignore             # Git ignore file
+
 ├── README.md              # Project README
 
 **Usage**
